@@ -6,7 +6,7 @@ Broadband Planner is a Node.js command-line program that compares broadband inte
 
 My purpose in writing this software was to practise the JavaScript features I expect to use most in real projects, using an example from the connectivity industry I work in, so that the code is meaningful to me and easy to explain to others.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/db1535ac07c844a598cff10fab508223) (https://www.loom.com/share/9fb53575382241039f629ee0f9bea8e4)
 
 # Development Environment
 
